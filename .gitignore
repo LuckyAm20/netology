@@ -207,3 +207,6 @@ block4/lab1/*.csv
 block4/lab2/*.csv
 block4/lab3/*.csv
 block5/lab1/*.csv
+block5/lab2/*.csv
+block5/lab2/test
+block5/lab2/train
